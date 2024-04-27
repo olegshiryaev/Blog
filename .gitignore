@@ -1,4 +1,13 @@
 *.pyc
 __pycache__
 db.sqlite3
-
+.env
+env
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+celerybeat-schedule.db
+logs
+.vscode
+.git
+.json
