@@ -3,6 +3,7 @@ __pycache__
 db.sqlite3
 .env
 env
+celerybeat-schedule
 celerybeat-schedule.bak
 celerybeat-schedule.dat
 celerybeat-schedule.dir
@@ -11,3 +12,6 @@ logs
 .vscode
 .git
 .json
+docker/
+venv/
+static/
